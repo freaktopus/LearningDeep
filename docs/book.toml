@@ -2,3 +2,6 @@
 title = "Learning Deep"
 authors = ["freaktopus"]
 language = "en"
+
+[output.html]
+additional-js = ["./src/scripts/zoom.js"]
