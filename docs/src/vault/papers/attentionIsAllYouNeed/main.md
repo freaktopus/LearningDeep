@@ -2,7 +2,7 @@
 
 <script image_tool>
   window.addEventListener("load", () => ZoomImg({
-    src:     "../../assets/attentionIsAllYouNeed/front.png",
+    src:     "../../../assets/attentionIsAllYouNeed/front.png",
     alt:     "Attention Is All You Need",
     caption: "Fig: Abstract of Attention Is All You Need",
     width:   "50%"

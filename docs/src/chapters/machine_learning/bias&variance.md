@@ -10,7 +10,7 @@ When your model (say machine learning method/ algorithm or say curve) perform ve
 
 <script image_tool>
   window.addEventListener("load", () => ZoomImg({
-    src:     "../assets/machine_learning/overfit.png",
+    src:     "../../assets/machine_learning/overfit.png",
     alt:     "Overfit Model",
     caption: "Ref: Machine Learning Tutorial Python - 20: Bias vs Variance In Machine Learning | codebasics",
     width:   "100%"
@@ -33,7 +33,7 @@ When your model (say machine learning method/ algorithm or say curve) perform li
 
 <script image_tool>
   window.addEventListener("load", () => ZoomImg({
-    src:     "../assets/machine_learning/underfit.png",
+    src:     "../../assets/machine_learning/underfit.png",
     alt:     "Underfit Model",
     caption: "Ref: Machine Learning Tutorial Python - 20: Bias vs Variance In Machine Learning | codebasics",
     width:   "100%"
@@ -52,7 +52,7 @@ When your model (say machine learning method/ algorithm or say curve) perform we
 
 <script image_tool>
   window.addEventListener("load", () => ZoomImg({
-    src:     "../assets/machine_learning/perfetfit.png",
+    src:     "../../assets/machine_learning/perfetfit.png",
     alt:     "Bestfit Model",
     caption: "Ref: Machine Learning Tutorial Python - 20: Bias vs Variance In Machine Learning | codebasics",
     width:   "100%"
@@ -69,7 +69,7 @@ How much the model fails to capture a true pattern in a training dataset. Result
 
 <script image_tool>
   window.addEventListener("load", () => ZoomImg({
-    src:     "../assets/machine_learning/bias.png",
+    src:     "../../assets/machine_learning/bias.png",
     alt:     "Bias",
     caption: "Ref: Machine Learning Tutorial Python - 20: Bias vs Variance In Machine Learning | codebasics",
     width:   "75%"
@@ -82,7 +82,7 @@ It is the amount by which the prediction would change if we fit the model to a d
 
 <script image_tool>
   window.addEventListener("load", () => ZoomImg({
-    src:     "../assets/machine_learning/variance.png",
+    src:     "../../assets/machine_learning/variance.png",
     alt:     "Variance",
     caption: "Ref: Machine Learning Tutorial Python - 20: Bias vs Variance In Machine Learning | codebasics",
     width:   "100%"
