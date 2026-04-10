@@ -26,12 +26,10 @@
 ---
 # Extra Concepts
 
-- [Interpolation Techniques](interpolation.md)
+- [Interpolation Techniques](./vault/interpolation.md)
 
 # Understanding the Paper
 
 - [Attention Is All You Need](./vault/papers/attentionIsAllYouNeed/main.md)
     - [Abstract](./vault/papers/attentionIsAllYouNeed/abstract.md)
     - [Introduction]()
-
-
