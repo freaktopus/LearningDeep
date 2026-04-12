@@ -5,6 +5,7 @@
 # Machine Learning
 ---
 - [Bias and Variance](chapters/machine_learning/bias&variance.md)
+- [Regression & Curve Fitting](chapters/machine_learning/regression/reg&curveFit.md)
 - [Chain Rule and Gradient Descent](chapters/machine_learning/chainRule&GradientDescent/main.md)
     - [Chain Rule](chapters/machine_learning/chainRule&GradientDescent/chainRule.md)
     - [Gradient Descent](chapters/machine_learning/chainRule&GradientDescent/GradientDescent.md)
