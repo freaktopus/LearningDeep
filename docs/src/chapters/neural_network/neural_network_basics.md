@@ -142,9 +142,18 @@ This results 1.03 which is close to 1. So, which means 0.5 dosage is effective.
   }));
 </script>
 
-
 > [!TIP]
 > Now, get familiar with the concept of [Regression & Curve Fitting](../../chapters/machine_learning/regression/reg&curveFit.md)
+
+## Single Perceptron
+
+Single perceptron can't solve non linear problem. Meaning single line can't able to seperate classes (imagine impossible to draw a line to seperate multiple classes). e.g. XOR truth table output can't be sepearable from a single line (meaning need multiple percentrons(and, !and, or)) to solve for the output.
+
+** Flow of the FeedForward Network**
+
+Input -> Weight _ Input + Bias -> Activation Function -> H (output of hidden layer) -> Weight _ H + Bias -> Activation Function -> Final Output
+
+Training is done to adjust the weight and without training that network is nothing.
 
 ## Hand Written Notes
 

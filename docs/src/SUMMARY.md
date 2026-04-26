@@ -26,6 +26,7 @@
 - [Basics of Neural Network](chapters/neural_network/neural_network_basics.md)
 - [Backpropagation in Neural Network](chapters/neural_network/backpropagation.md)
 - [Recurrent Neural Network (RNN)](RNN.md)
+- [Convolution Neural Network](chapters/neural_network/convolution.md)
 
 ---
 

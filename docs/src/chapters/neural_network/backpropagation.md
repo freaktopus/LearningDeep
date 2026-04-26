@@ -34,6 +34,3 @@ Then plot that SSR(y-axis) and Bias(x-axis) in a graph. Then take derivative of 
 </script>
 
 Using Gradient Descent, we calcaulte optimal value for bias, which is obtain when step size (here it is for calculaitng the new bias value) is near 0.
-
-
-
