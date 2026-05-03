@@ -14,6 +14,7 @@ dependencies = [
     "shap>=0.51.0",
     "torch>=2.11.0",
     "torchvision>=0.26.0",
+    "tqdm>=4.67.3",
 ]
 
 [tool.uv.workspace]

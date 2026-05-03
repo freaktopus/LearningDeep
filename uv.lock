@@ -348,6 +348,7 @@ dependencies = [
     { name = "shap" },
     { name = "torch" },
     { name = "torchvision" },
+    { name = "tqdm" },
 ]
 
 [package.metadata]
@@ -361,6 +362,7 @@ requires-dist = [
     { name = "shap", specifier = ">=0.51.0" },
     { name = "torch", specifier = ">=2.11.0" },
     { name = "torchvision", specifier = ">=0.26.0" },
+    { name = "tqdm", specifier = ">=4.67.3" },
 ]
 
 [[package]]
