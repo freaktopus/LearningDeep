@@ -13,6 +13,7 @@ dependencies = [
     "seaborn>=0.13.2",
     "shap>=0.51.0",
     "torch>=2.11.0",
+    "torch-geometric>=2.7.0",
     "torchvision>=0.26.0",
     "tqdm>=4.67.3",
 ]
