@@ -4,4 +4,4 @@ authors = ["freaktopus"]
 language = "en"
 
 [output.html]
-additional-js = ["./src/scripts/zoom.js"]
+additional-js = ["./src/scripts/zoom.js", "./src/scripts/footer.js"]
